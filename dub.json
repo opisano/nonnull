@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Olivier Pisano"
+	],
+	"copyright": "Copyright © 2025, Olivier Pisano",
+	"description": "A pointer wrapper that cannot be null",
+	"license": "BSL-1.0",
+	"name": "nonnull",
+	"targetType":"sourceLibrary"
+}
